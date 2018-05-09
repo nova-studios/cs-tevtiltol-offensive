@@ -1,0 +1,109 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   23.21.13.8871
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\GETween.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\DOTween.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Generators.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Generators.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\KDTree.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Triangle.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\Triangle.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\XTUtilities.dll (this message is harmless)
+Loading D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\XTUtilities.dll into Unity Child Domain
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\_Unity\0-2017\_NOVA REP\builds\RandomLands TevTilTol Edition_V1.2.0\RandomLands TevTilTol Edition_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.039 seconds
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+OnLevelWasLoaded was found on MenuController
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.408444 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+The tree Bush1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Bush2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Bush5 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree FernMesh must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 7.843555 ms
+The tree Bush1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Bush2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Bush3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 54086.
+Total: 16.340888 ms (FindLiveObjects: 3.237777 ms CreateObjectMapping: 0.822666 ms MarkObjects: 7.198666 ms  DeleteObjects: 5.080000 ms)
+
+too many open scenes: Hopefully just testing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2558 -> priority: 1 
+  Thread -> id: 2824 -> priority: 1 

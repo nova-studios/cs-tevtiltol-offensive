@@ -1,2 +1,2 @@
-# cs-tevtiltol-offensive
-Basically a CS:GO clone in Unity with TEVTILTOL as the map
+# CS-TevTilYol-Offensive
+A CS:GO like game made in Unity with TevTilTol (a place inspired by our school) as the map
