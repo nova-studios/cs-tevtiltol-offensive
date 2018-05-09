@@ -151,7 +151,11 @@ public class PrefabAlongSpline : MonoBehaviour {
 		foreach (Transform child in transform) children.Add(child.gameObject);
 		try{
 	#if UNITY_EDITOR
+			UnityEditor.EditorApplication.delayCall+=()=>
+			{
 				children.ForEach(child => DestroyImmediate(child));
+			};
+				//children.ForEach(child => DestroyImmediate(child));
 	#endif
 				children.ForEach(child => Destroy(child));
 		}

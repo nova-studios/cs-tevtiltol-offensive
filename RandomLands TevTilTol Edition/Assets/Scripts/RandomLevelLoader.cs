@@ -21,9 +21,10 @@ public class RandomLevelLoader : MonoBehaviour {
 
 	void betterStart () {
 		if (SceneManager.sceneCount > 1) {
-			print ("too many open scenes");
+			//print ("More than one scene is already open, returning...");
 			return;
 		}
+		print ("Non loaded menu detected, menu is loading");
 		//SceneManager.LoadSceneAsync(levelId, LoadSceneMode.Additive);
 		if (!isLoad2) {
 			isLoad2 = true;
